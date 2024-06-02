@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import 'bootstrap/dist/css/bootstrap.min.css';
+>>>>>>> 57dfeeca2fdadb717be1efbfc89301990bbb0df3
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
